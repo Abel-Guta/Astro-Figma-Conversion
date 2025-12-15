@@ -64,7 +64,7 @@ const App = () => {
             </button>
           </div>
           <div className="mobileNav">
-            <h2 className="title">Xae</h2>
+            <h2 className="title">Astro</h2>
             <button onClick={() => setNav(!nav)}>
               <GgMenuRightAlt />
             </button>
